@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0.0",
+  "info": {
+    "title": "Plex Monitoring",
+    "id": {
+      "group": null,
+      "name": "TA-plex-monitoring",
+      "version": "1.2.2"
+    },
+    "author": [
+      {
+        "name": "Emlin Charly",
+        "email": null,
+        "company": null
+      }
+    ],
+    "releaseDate": null,
+    "description": "The Plex Monitoring add-on is designed to extract data from the Plex API and index it in Splunk.",
+    "classification": {
+      "intendedAudience": null,
+      "categories": [],
+      "developmentStatus": null
+    },
+    "commonInformationModels": null,
+    "license": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "privacyPolicy": {
+      "name": null,
+      "text": null,
+      "uri": null
+    },
+    "releaseNotes": {
+      "name": null,
+      "text": null,
+      "uri": null
+    }
+  },
+  "dependencies": {
+  },
+  "tasks": [],
+  "inputGroups": {
+  },
+  "incompatibleApps": {
+  },
+  "platformRequirements": {
+    "splunk": {
+      "Enterprise": "*"
+    }
+  }
+}
