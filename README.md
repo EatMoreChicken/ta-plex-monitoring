@@ -34,15 +34,15 @@ Here are the data sets that can be extracted from the Plex API with the Plex Mon
 - [ ] Add API filtering capabilities
 - [ ] Pull all available media statistics
 - [ ] Add alert actions:
-  - [ ]Stop an activity
-  - [ ]Terminate a session
-  - [ ]Scan libraries
-  - [ ]Refresh metadata for a library
-  - [ ]Update media play progress
-  - [ ]Empty trash
-  - [ ]Clean bundles
-  - [ ]Optimize database
-  - [ ]Run backup database task
-  - [ ]Run optimize database task
-  - [ ]Run clean old bundles task
-  - [ ]Run clean old cache files task
+  - [ ] Stop an activity
+  - [ ] Terminate a session
+  - [ ] Scan libraries
+  - [ ] Refresh metadata for a library
+  - [ ] Update media play progress
+  - [ ] Empty trash
+  - [ ] Clean bundles
+  - [ ] Optimize database
+  - [ ] Run backup database task
+  - [ ] Run optimize database task
+  - [ ] Run clean old bundles task
+  - [ ] Run clean old cache files task
