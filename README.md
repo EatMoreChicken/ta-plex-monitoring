@@ -4,7 +4,7 @@
 The Plex Monitoring add-on is designed to extract data from the Plex API and index it in Splunk. It allows users to monitor and analyze various metrics and events from their Plex server.
 
 ## 💻 Installation
-1. Install Plex Monitoring via the `tar.gz`.
+1. Install Plex Monitoring via the `tar.gz` in the [releases](https://github.com/EatMoreChicken/ta-plex-monitoring/releases) page. (Do not download this repo as a zip. Doing so will lead to permission issues and will prevent the add-on from working as expected.)
 2. Open the app and navigate to **Configuration** > **Add-on Settings**.
 3. Fill in the required information. Please note that you can visit [this documentation](https://www.plexopedia.com/plex-media-server/general/plex-token/) for information on retrieving your Plex token.
 
